@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.AssemblyInfo.cs
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Documents\ProvaFinal\obj\Debug\net5.0\ProvaFinal.MvcApplicationPartsAssemblyInfo.cache
